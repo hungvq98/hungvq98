@@ -62,7 +62,7 @@
 
 </div>
 
-## Snake
+<h2 align="center">🐍 Snake 🐍</h2>
 ![snake gif](https://github.com/hungvq98/hungvq98/blob/output/github-contribution-grid-snake.gif)
 
 
