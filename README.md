@@ -30,10 +30,10 @@
 <br>
 <div align=center>
   <a href="#"  title="Quochung">
-    <img style="border:1px solid white;border-radius:5px" height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungvq98&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img style="border:1px solid white;border-radius:5px" width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungvq98&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
   <a href="#" title="Quochung">
-    <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=hungvq98&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+    <img align="right" width="315"  src="https://github-readme-stats.vercel.app/api?username=hungvq98&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
   </a>
 </div>
 
