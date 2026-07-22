@@ -204,22 +204,6 @@
 
 <br/>
 
-<!-- ===================== CONTRIBUTIONS ===================== -->
-
-<h2 align="center">🐍 Contributions</h2>
-
-<div align="center">
-
-<img
-  width="100%"
-  src="https://raw.githubusercontent.com/hungvq98/hungvq98/output/github-contribution-grid-snake.svg"
-  alt="GitHub contribution snake"
-/>
-
-</div>
-
-<br/>
-
 <!-- ===================== CONTACT ===================== -->
 
 <h2 align="center">💌 Let's Connect</h2>
