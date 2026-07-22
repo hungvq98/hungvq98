@@ -98,53 +98,121 @@
 
 <h2 align="center">🧰 Skills & Tools</h2>
 
-<div align="center">
+<p align="center">
+  Những công nghệ và công cụ mình thường sử dụng để xây dựng giao diện.
+</p>
 
-<img
-  src="https://skillicons.dev/icons?i=html,css,sass,js,react,bootstrap,git,github,vscode,figma,ps&perline=6"
-  alt="Frontend skills"
-/>
+<br/>
 
-</div>
+<h3>🎨 Frontend Development</h3>
+
+<p>
+  <code>HTML5</code>&nbsp;
+  <code>CSS3</code>&nbsp;
+  <code>Sass</code>&nbsp;
+  <code>JavaScript</code>&nbsp;
+  <code>ReactJS</code>&nbsp;
+  <code>Bootstrap</code>
+</p>
+
+<p>
+  Xây dựng giao diện responsive, component-based và thân thiện với người dùng.
+</p>
+
+<br/>
+
+<h3>✨ UI Design & Motion</h3>
+
+<p>
+  <code>Responsive Design</code>&nbsp;
+  <code>UI Animation</code>&nbsp;
+  <code>Micro-interactions</code>&nbsp;
+  <code>GSAP</code>&nbsp;
+  <code>Figma</code>&nbsp;
+  <code>Photoshop</code>
+</p>
+
+<p>
+  Tạo trải nghiệm trực quan, có chuyển động tự nhiên và mang cá tính riêng.
+</p>
+
+<br/>
+
+<h3>🛠 Development Workflow</h3>
+
+<p>
+  <code>Git</code>&nbsp;
+  <code>GitHub</code>&nbsp;
+  <code>VS Code</code>&nbsp;
+  <code>Clean Code</code>&nbsp;
+  <code>Component Architecture</code>&nbsp;
+  <code>Performance</code>
+</p>
+
+<p>
+  Chú trọng code dễ đọc, dễ bảo trì và có khả năng mở rộng.
+</p>
+
+<br/>
+
+<!-- ===================== VALUES ===================== -->
+
+<h2 align="center">🌱 What I Care About</h2>
+
+<p align="center">
+  Những nguyên tắc mình ưu tiên khi thiết kế và phát triển sản phẩm.
+</p>
 
 <br/>
 
 <table width="100%">
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
 
-### 🎨 Frontend
+### 🎯 Thoughtful UI
 
-- HTML5
-- CSS3
-- Sass
-- JavaScript
-- ReactJS
-- Bootstrap
+Giao diện rõ ràng, có chủ đích và không chứa những chi tiết thừa.
 
 </td>
-<td width="33%" valign="top">
+    <td width="50%" valign="top">
 
-### ✨ UI & Motion
+### 📱 Responsive Design
 
-- Responsive Design
-- UI Animation
-- Micro-interactions
-- GSAP
-- Figma
-- Photoshop
+Trải nghiệm nhất quán trên desktop, tablet và thiết bị di động.
 
 </td>
-<td width="33%" valign="top">
+  </tr>
 
-### 🛠 Workflow
+  <tr>
+    <td width="50%" valign="top">
 
-- Git
-- GitHub
-- VS Code
-- Component-based UI
-- Clean Code
-- Performance
+### ✨ Playful Motion
+
+Animation vừa đủ, tự nhiên và hỗ trợ người dùng hiểu giao diện.
+
+</td>
+    <td width="50%" valign="top">
+
+### ♿ Accessibility
+
+Nội dung dễ đọc, dễ thao tác và có thể tiếp cận với nhiều người dùng.
+
+</td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+
+### 🧩 Clean Architecture
+
+Code có cấu trúc rõ ràng, dễ bảo trì và thuận tiện khi mở rộng.
+
+</td>
+    <td width="50%" valign="top">
+
+### ⚡ Performance
+
+Tối ưu tốc độ tải trang và hạn chế những tài nguyên không cần thiết.
 
 </td>
   </tr>
@@ -152,55 +220,49 @@
 
 <br/>
 
-<!-- ===================== CURRENT FOCUS ===================== -->
+<!-- ===================== GITHUB ===================== -->
 
-<h2 align="center">🌱 What I Care About</h2>
+<h2 align="center">📊 GitHub Activity</h2>
+
+<p align="center">
+  Một số nơi bạn có thể khám phá code và các dự án của mình.
+</p>
+
+<br/>
 
 <div align="center">
 
-| 🎯 Thoughtful UI | 📱 Responsive Design | ♿ Accessibility |
-|:---:|:---:|:---:|
-| Giao diện rõ ràng và có chủ đích | Hoạt động tốt trên mọi thiết bị | Trải nghiệm dễ tiếp cận |
+<a href="https://github.com/hungvq98?tab=repositories">
+  <img
+    src="https://img.shields.io/badge/View_My_Repositories-FFF1DD?style=for-the-badge&logo=github&logoColor=3B2A22"
+    alt="View repositories"
+  />
+</a>
 
-| ✨ Playful Motion | 🧩 Clean Architecture | ⚡ Performance |
-|:---:|:---:|:---:|
-| Animation vừa đủ và tự nhiên | Code dễ đọc, dễ mở rộng | Website nhanh và tối ưu |
+<a href="https://github.com/hungvq98?tab=stars">
+  <img
+    src="https://img.shields.io/badge/Starred_Projects-FFF1DD?style=for-the-badge&logo=githubsponsors&logoColor=C4672D"
+    alt="Starred projects"
+  />
+</a>
+
+<a href="https://github.com/hungvq98?tab=followers">
+  <img
+    src="https://img.shields.io/badge/GitHub_Profile-FFF1DD?style=for-the-badge&logo=github&logoColor=C4672D"
+    alt="GitHub profile"
+  />
+</a>
 
 </div>
 
 <br/>
 
-<!-- ===================== GITHUB STATS ===================== -->
-
-<h2 align="center">📊 GitHub Activity</h2>
-
-<p align="center">
-  <a href="https://github.com/hungvq98">
-    <img
-      height="180"
-      src="https://github-readme-stats.vercel.app/api?username=hungvq98&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400&bg_color=FFF8EC&title_color=C4672D&text_color=3B2A22&icon_color=C4672D&ring_color=C4672D"
-      alt="Quốc Hùng GitHub statistics"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/hungvq98">
-    <img
-      height="180"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungvq98&layout=compact&langs_count=8&hide_border=true&cache_seconds=86400&bg_color=FFF8EC&title_color=C4672D&text_color=3B2A22"
-      alt="Quốc Hùng most used languages"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <img
-    width="70%"
-    src="https://github-readme-streak-stats.herokuapp.com?user=hungvq98&hide_border=true&background=FFF8EC&stroke=D8BFA1&ring=C4672D&fire=C4672D&currStreakNum=3B2A22&sideNums=3B2A22&currStreakLabel=C4672D&sideLabels=806C60&dates=806C60"
-    alt="GitHub contribution streak"
-  />
-</p>
+<blockquote>
+  <p>
+    <strong>Currently exploring</strong><br/>
+    UI animation, modern React patterns and creative frontend experiences.
+  </p>
+</blockquote>
 
 <!-- ===================== CONTACT ===================== -->
 
