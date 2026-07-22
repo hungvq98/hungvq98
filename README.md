@@ -174,35 +174,33 @@
 
 <h2 align="center">📊 GitHub Activity</h2>
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/hungvq98">
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api?username=hungvq98&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400&bg_color=FFF8EC&title_color=C4672D&text_color=3B2A22&icon_color=C4672D&ring_color=C4672D"
+      alt="Quốc Hùng GitHub statistics"
+    />
+  </a>
+</p>
 
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=hungvq98&show_icons=true&hide_border=true&bg_color=FFF8EC&title_color=C4672D&text_color=3B2A22&icon_color=C4672D&ring_color=C4672D"
-  alt="GitHub statistics"
-/>
+<p align="center">
+  <a href="https://github.com/hungvq98">
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungvq98&layout=compact&langs_count=8&hide_border=true&cache_seconds=86400&bg_color=FFF8EC&title_color=C4672D&text_color=3B2A22"
+      alt="Quốc Hùng most used languages"
+    />
+  </a>
+</p>
 
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungvq98&layout=compact&langs_count=8&hide_border=true&bg_color=FFF8EC&title_color=C4672D&text_color=3B2A22"
-  alt="Most used languages"
-/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img
-  width="70%"
-  src="https://github-readme-streak-stats.herokuapp.com?user=hungvq98&hide_border=true&background=FFF8EC&stroke=D8BFA1&ring=C4672D&fire=C4672D&currStreakNum=3B2A22&sideNums=3B2A22&currStreakLabel=C4672D&sideLabels=806C60&dates=806C60"
-  alt="GitHub contribution streak"
-/>
-
-</div>
-
-<br/>
+<p align="center">
+  <img
+    width="70%"
+    src="https://github-readme-streak-stats.herokuapp.com?user=hungvq98&hide_border=true&background=FFF8EC&stroke=D8BFA1&ring=C4672D&fire=C4672D&currStreakNum=3B2A22&sideNums=3B2A22&currStreakLabel=C4672D&sideLabels=806C60&dates=806C60"
+    alt="GitHub contribution streak"
+  />
+</p>
 
 <!-- ===================== CONTACT ===================== -->
 
