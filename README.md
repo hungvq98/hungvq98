@@ -1,184 +1,271 @@
+<!-- ===================== HERO ===================== -->
+
 <div align="center">
-  <a href="https://your-portfolio.com" target="_blank">
-    <img
-      src="./svg/hero.svg"
-      width="100%"
-      alt="Văn Quốc Hùng - Frontend Developer"
-    />
-  </a>
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=soft&height=260&color=F7E4C8&text=Quhu&fontColor=24150F&fontSize=78&fontAlignY=39&desc=Văn%20Quốc%20Hùng%20%E2%80%A2%20Frontend%20Developer&descAlignY=67&descSize=22&animation=fadeIn"
+  alt="Văn Quốc Hùng - Frontend Developer"
+/>
+
+<br/>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=20&duration=3500&pause=1000&color=C4672D&center=true&vCenter=true&width=760&lines=I+turn+ideas+into+thoughtful+digital+experiences.;Building+clean%2C+responsive+and+playful+interfaces.;Frontend+Developer+%E2%80%A2+UI%2FUX+Lover+%E2%80%A2+Motion+Enthusiast"
+  alt="Typing introduction"
+/>
+
 </div>
 
-<br />
+<br/>
+
+<!-- ===================== INTRODUCTION ===================== -->
 
 <table width="100%">
   <tr>
-    <td width="48%" valign="top">
-      <img
-        src="./svg/statement.svg"
-        width="100%"
-        alt="I turn ideas into digital spaces"
-      />
-    </td>
+    <td width="55%" valign="top">
 
-    <td width="52%" rowspan="2" valign="top">
-      <img
-        src="./svg/skills.svg"
-        width="100%"
-        alt="Frontend development skills"
-      />
+<h2>☕ About Me</h2>
 
-      <br />
+<p>
+  Xin chào, mình là <strong>Quốc Hùng</strong>, một Frontend Developer
+  yêu thích việc biến những ý tưởng thành giao diện rõ ràng,
+  thân thiện và thú vị khi sử dụng.
+</p>
 
-      <img
-        src="./svg/quick-facts.svg"
-        width="100%"
-        alt="Quick facts about Quốc Hùng"
-      />
-    </td>
-  </tr>
+<p>
+  Mình tập trung vào responsive design, clean code,
+  UI animation và trải nghiệm người dùng.
+</p>
 
+<ul>
+  <li>💻 Xây dựng giao diện web responsive</li>
+  <li>🎨 Quan tâm đến UI/UX và visual design</li>
+  <li>✨ Yêu thích animation và micro-interaction</li>
+  <li>🌱 Luôn học thêm công nghệ frontend mới</li>
+</ul>
+
+</td>
+<td width="45%" valign="top">
+
+<h2>🌿 Quick Facts</h2>
+
+<table>
   <tr>
-    <td width="48%" valign="top">
-      <img
-        src="./svg/about.svg"
-        width="100%"
-        alt="About Quốc Hùng"
-      />
-    </td>
+    <td>📍</td>
+    <td><strong>Based in</strong></td>
+    <td>Ho Chi Minh City</td>
   </tr>
-
   <tr>
-    <td width="48%" valign="top">
-      <img
-        src="./svg/interests.svg"
-        width="100%"
-        alt="What I care about"
-      />
-    </td>
-
-    <td width="52%" valign="top">
-      <a href="mailto:hung.vq98@gmail.com">
-        <img
-          src="./svg/contact.svg"
-          width="100%"
-          alt="Contact Quốc Hùng"
-        />
-      </a>
-    </td>
+    <td>💼</td>
+    <td><strong>Role</strong></td>
+    <td>Frontend Developer</td>
+  </tr>
+  <tr>
+    <td>🎯</td>
+    <td><strong>Focus</strong></td>
+    <td>Responsive UI</td>
+  </tr>
+  <tr>
+    <td>🎞️</td>
+    <td><strong>Loves</strong></td>
+    <td>UI Motion</td>
+  </tr>
+  <tr>
+    <td>☕</td>
+    <td><strong>Powered by</strong></td>
+    <td>Coffee</td>
   </tr>
 </table>
 
-<br />
+</td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ===================== QUOTE ===================== -->
 
 <div align="center">
-  <img
-    src="./svg/projects-title.svg"
-    width="100%"
-    alt="Featured Projects"
-  />
+
+### 🧡 I turn ideas into digital spaces that feel clear, responsive and genuinely fun to explore.
+
 </div>
+
+<br/>
+
+<!-- ===================== SKILLS ===================== -->
+
+<h2 align="center">🧰 Skills & Tools</h2>
+
+<div align="center">
+
+<img
+  src="https://skillicons.dev/icons?i=html,css,sass,js,react,bootstrap,git,github,vscode,figma,ps&perline=6"
+  alt="Frontend skills"
+/>
+
+</div>
+
+<br/>
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://project-one-demo.com">
-        <img
-          src="./svg/project-one.svg"
-          width="100%"
-          alt="Project One"
-        />
-      </a>
-    </td>
+    <td width="33%" valign="top">
 
-    <td width="50%" valign="top">
-      <a href="https://project-two-demo.com">
-        <img
-          src="./svg/project-two.svg"
-          width="100%"
-          alt="Project Two"
-        />
-      </a>
-    </td>
+### 🎨 Frontend
+
+- HTML5
+- CSS3
+- Sass
+- JavaScript
+- ReactJS
+- Bootstrap
+
+</td>
+<td width="33%" valign="top">
+
+### ✨ UI & Motion
+
+- Responsive Design
+- UI Animation
+- Micro-interactions
+- GSAP
+- Figma
+- Photoshop
+
+</td>
+<td width="33%" valign="top">
+
+### 🛠 Workflow
+
+- Git
+- GitHub
+- VS Code
+- Component-based UI
+- Clean Code
+- Performance
+
+</td>
   </tr>
 </table>
 
-<br />
+<br/>
+
+<!-- ===================== CURRENT FOCUS ===================== -->
+
+<h2 align="center">🌱 What I Care About</h2>
 
 <div align="center">
-  <img
-    src="./svg/github-title.svg"
-    width="100%"
-    alt="GitHub Activity"
-  />
+
+| 🎯 Thoughtful UI | 📱 Responsive Design | ♿ Accessibility |
+|:---:|:---:|:---:|
+| Giao diện rõ ràng và có chủ đích | Hoạt động tốt trên mọi thiết bị | Trải nghiệm dễ tiếp cận |
+
+| ✨ Playful Motion | 🧩 Clean Architecture | ⚡ Performance |
+|:---:|:---:|:---:|
+| Animation vừa đủ và tự nhiên | Code dễ đọc, dễ mở rộng | Website nhanh và tối ưu |
+
 </div>
+
+<br/>
+
+<!-- ===================== GITHUB STATS ===================== -->
+
+<h2 align="center">📊 GitHub Activity</h2>
 
 <div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=hungvq98&show_icons=true&hide_border=true&bg_color=F8E8D1&title_color=C66A2B&text_color=38271F&icon_color=C66A2B"
-    />
 
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=hungvq98&show_icons=true&hide_border=true&bg_color=F8E8D1&title_color=C66A2B&text_color=38271F&icon_color=C66A2B"
-      width="49%"
-      alt="Quốc Hùng GitHub statistics"
-    />
-  </picture>
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=hungvq98&show_icons=true&hide_border=true&bg_color=FFF8EC&title_color=C4672D&text_color=3B2A22&icon_color=C4672D&ring_color=C4672D"
+  alt="GitHub statistics"
+/>
 
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hungvq98&layout=compact&hide_border=true&bg_color=F8E8D1&title_color=C66A2B&text_color=38271F"
-    />
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungvq98&layout=compact&langs_count=8&hide_border=true&bg_color=FFF8EC&title_color=C4672D&text_color=3B2A22"
+  alt="Most used languages"
+/>
 
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungvq98&layout=compact&hide_border=true&bg_color=F8E8D1&title_color=C66A2B&text_color=38271F"
-      width="49%"
-      alt="Quốc Hùng most used languages"
-    />
-  </picture>
 </div>
 
-<br />
+<br/>
 
 <div align="center">
-  <img
-    src="https://raw.githubusercontent.com/hungvq98/hungvq98/output/github-contribution-grid-snake.svg"
-    width="100%"
-    alt="GitHub contribution snake animation"
-  />
+
+<img
+  width="70%"
+  src="https://github-readme-streak-stats.herokuapp.com?user=hungvq98&hide_border=true&background=FFF8EC&stroke=D8BFA1&ring=C4672D&fire=C4672D&currStreakNum=3B2A22&sideNums=3B2A22&currStreakLabel=C4672D&sideLabels=806C60&dates=806C60"
+  alt="GitHub contribution streak"
+/>
+
 </div>
 
-<br />
+<br/>
+
+<!-- ===================== CONTRIBUTIONS ===================== -->
+
+<h2 align="center">🐍 Contributions</h2>
 
 <div align="center">
-  <a href="mailto:hung.vq98@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-F8E8D1?style=for-the-badge&logo=gmail&logoColor=C66A2B"
-      alt="Email"
-    />
-  </a>
 
-  <a href="https://facebook.com/QH.KTTT">
-    <img
-      src="https://img.shields.io/badge/Facebook-F8E8D1?style=for-the-badge&logo=facebook&logoColor=C66A2B"
-      alt="Facebook"
-    />
-  </a>
+<img
+  width="100%"
+  src="https://raw.githubusercontent.com/hungvq98/hungvq98/output/github-contribution-grid-snake.svg"
+  alt="GitHub contribution snake"
+/>
 
-  <a href="https://your-portfolio.com">
-    <img
-      src="https://img.shields.io/badge/Portfolio-F8E8D1?style=for-the-badge&logo=googlechrome&logoColor=C66A2B"
-      alt="Portfolio"
-    />
-  </a>
 </div>
 
-<br />
+<br/>
+
+<!-- ===================== CONTACT ===================== -->
+
+<h2 align="center">💌 Let's Connect</h2>
 
 <p align="center">
-  <sub>
-    Designed and built with ☕ by Quốc Hùng
-  </sub>
+  Có một ý tưởng, dự án hoặc cơ hội hợp tác?
+  <br/>
+  Hãy liên hệ với mình nhé.
 </p>
+
+<div align="center">
+
+<a href="mailto:hung.vq98@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-FFF8EC?style=for-the-badge&logo=gmail&logoColor=C4672D"
+    alt="Email"
+  />
+</a>
+
+<a href="https://facebook.com/QH.KTTT">
+  <img
+    src="https://img.shields.io/badge/Facebook-FFF8EC?style=for-the-badge&logo=facebook&logoColor=C4672D"
+    alt="Facebook"
+  />
+</a>
+
+<a href="https://github.com/hungvq98">
+  <img
+    src="https://img.shields.io/badge/GitHub-FFF8EC?style=for-the-badge&logo=github&logoColor=3B2A22"
+    alt="GitHub"
+  />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ===================== FOOTER ===================== -->
+
+<div align="center">
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=120&color=F7E4C8&section=footer"
+/>
+
+<sub>Designed with ☕ and a little bit of unexpected joy.</sub>
+
+</div>
