@@ -32,11 +32,11 @@ html, body {
   margin: 0 0 18px; color: #fff8e9;
   font-size: 22px; font-weight: 700; letter-spacing: 0; font-family: "Baloo 2", sans-serif;
 }
-.muted { color: #caa98d; }
+.muted { color: #e0bea0; }
 .pill {
   display: inline-flex; align-items: center; gap: 8px;
   padding: 8px 12px; border: 1px solid #8f5b2e; border-radius: 6px;
-  background: #261a13; color: #d8c1aa; font-size: 14px; font-weight: 750;
+  background: #261a13; color: #ead7c4; font-size: 14px; font-weight: 750;
 }
 .icon { width:24px; height:24px; flex:0 0 auto; color:#e7a15c; stroke:currentColor; stroke-width:2; fill:none; stroke-linecap:round; stroke-linejoin:round; }
 .pill .icon { width:16px; height:16px; }
@@ -46,9 +46,9 @@ html, body {
 .contact { display:grid; grid-template-columns: repeat(3, 1fr); gap:14px; }
 .contact-item { min-height:84px; display:flex; align-items:center; gap:14px; padding:15px 18px; border:1px solid #8f5b2e; border-radius:8px; color:#fff8e9; background:#261a13; box-shadow:none; text-decoration:none; }
 .contact-icon { font-size:33px; }
-.contact-item strong { display:block; margin-bottom:3px; font-size:15px; }
-.contact-item span { color:#d8c1aa; font-size:13px; }
-.footer { margin-top: 14px; color:#d8c1aa; text-align:center; font-size:14px; }
+.contact-item strong { display:block; margin-bottom:3px; color:#fff8e9; font-size:15px; }
+.contact-item span { color:#ead7c4; font-size:13px; }
+.footer { margin-top: 14px; color:#ead7c4; text-align:center; font-size:14px; }
 </style>
       <div class="page" style="min-height:220px">
 <section class="card section">

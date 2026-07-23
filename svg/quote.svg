@@ -32,11 +32,11 @@ html, body {
   margin: 0 0 18px; color: #fff8e9;
   font-size: 22px; font-weight: 700; letter-spacing: 0; font-family: "Baloo 2", sans-serif;
 }
-.muted { color: #caa98d; }
+.muted { color: #e0bea0; }
 .pill {
   display: inline-flex; align-items: center; gap: 8px;
   padding: 8px 12px; border: 1px solid #8f5b2e; border-radius: 6px;
-  background: #261a13; color: #d8c1aa; font-size: 14px; font-weight: 750;
+  background: #261a13; color: #ead7c4; font-size: 14px; font-weight: 750;
 }
 .icon { width:24px; height:24px; flex:0 0 auto; color:#e7a15c; stroke:currentColor; stroke-width:2; fill:none; stroke-linecap:round; stroke-linejoin:round; }
 .pill .icon { width:16px; height:16px; }
@@ -45,7 +45,7 @@ html, body {
 
 .quote { min-height: 170px; display:grid; grid-template-columns: 76px 1fr 230px; align-items:center; padding:26px 34px; }
 .quote-mark { align-self:start; color:#e7a15c; font-family:"Baloo 2", sans-serif; font-size:88px; line-height:.9; }
-.quote-text { padding-left:24px; border-left:4px solid #e7a15c; font-size:31px; line-height:1.32; font-weight:900; letter-spacing:0; }
+.quote-text { padding-left:24px; border-left:4px solid #e7a15c; color:#fff8e9; font-size:31px; line-height:1.32; font-weight:900; letter-spacing:0; }
 .coffee-art { position:relative; height:120px; }
 .cup { position:absolute; right:72px; bottom:12px; width:92px; height:62px; border:5px solid #9a613d; border-radius:10px 10px 30px 30px; background:#f2d1a7; }
 .cup::before { content:""; position:absolute; right:-30px; top:11px; width:30px; height:27px; border:5px solid #9a613d; border-left:0; border-radius:0 18px 18px 0; }

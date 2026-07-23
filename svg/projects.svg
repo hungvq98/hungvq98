@@ -32,11 +32,11 @@ html, body {
   margin: 0 0 18px; color: #fff8e9;
   font-size: 22px; font-weight: 700; letter-spacing: 0; font-family: "Baloo 2", sans-serif;
 }
-.muted { color: #caa98d; }
+.muted { color: #e0bea0; }
 .pill {
   display: inline-flex; align-items: center; gap: 8px;
   padding: 8px 12px; border: 1px solid #8f5b2e; border-radius: 6px;
-  background: #261a13; color: #d8c1aa; font-size: 14px; font-weight: 750;
+  background: #261a13; color: #ead7c4; font-size: 14px; font-weight: 750;
 }
 .icon { width:24px; height:24px; flex:0 0 auto; color:#e7a15c; stroke:currentColor; stroke-width:2; fill:none; stroke-linecap:round; stroke-linejoin:round; }
 .pill .icon { width:16px; height:16px; }
@@ -52,8 +52,8 @@ html, body {
 .dash-sidebar { position:absolute; left:10px; top:10px; bottom:10px; width:38px; border-radius:5px; background:#161d23; }
 .dash-box { position:absolute; border-radius:5px; background:#f2e6d5; }
 .dash-a { left:58px; top:14px; width:128px; height:26px; } .dash-b { left:58px; top:48px; width:57px; height:36px; } .dash-c { left:123px; top:48px; width:63px; height:36px; } .dash-d { left:58px; top:92px; width:128px; height:42px; }
-.project h3 { margin:0 0 8px; font-size:23px; } .project p { margin:0; color:#d8c1aa; font-size:14px; line-height:1.45; }
-.project-tags { display:flex; flex-wrap:wrap; gap:7px; margin-top:13px; } .project-tags span { padding:6px 9px; border:1px solid #8f5b2e; border-radius:6px; color:#d8c1aa; background:#1b120d; font-size:12px; font-weight:780; }
+.project h3 { margin:0 0 8px; color:#fff8e9; font-size:23px; } .project p { margin:0; color:#ead7c4; font-size:14px; line-height:1.45; }
+.project-tags { display:flex; flex-wrap:wrap; gap:7px; margin-top:13px; } .project-tags span { padding:6px 9px; border:1px solid #8f5b2e; border-radius:6px; color:#ead7c4; background:#1b120d; font-size:12px; font-weight:780; }
 .project-actions { display:flex; gap:8px; margin-top:14px; } .btn { padding:8px 11px; border:1px solid #8f5b2e; border-radius:6px; color:#fff8e9; background:#1b120d; font-size:12px; font-weight:850; } .btn.primary { color:#1b120d; border-color:#e7a15c; background:#e7a15c; }
 </style>
       <div class="page" style="min-height:400px">

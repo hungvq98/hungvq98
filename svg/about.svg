@@ -32,18 +32,18 @@ html, body {
   margin: 0 0 18px; color: #fff8e9;
   font-size: 22px; font-weight: 700; letter-spacing: 0; font-family: "Baloo 2", sans-serif;
 }
-.muted { color: #caa98d; }
+.muted { color: #e0bea0; }
 .pill {
   display: inline-flex; align-items: center; gap: 8px;
   padding: 8px 12px; border: 1px solid #8f5b2e; border-radius: 6px;
-  background: #261a13; color: #d8c1aa; font-size: 14px; font-weight: 750;
+  background: #261a13; color: #ead7c4; font-size: 14px; font-weight: 750;
 }
 .icon { width:24px; height:24px; flex:0 0 auto; color:#e7a15c; stroke:currentColor; stroke-width:2; fill:none; stroke-linecap:round; stroke-linejoin:round; }
 .pill .icon { width:16px; height:16px; }
 .value-icon, .fact-icon, .activity-icon, .contact-icon { display:grid; place-items:center; color:#e7a15c; }
 .value-icon .icon, .fact-icon .icon, .activity-icon .icon, .contact-icon .icon { width:34px; height:34px; }
 
-.about p { margin: 0 0 14px; color:#d8c1aa; font-size:17px; line-height:1.65; }
+.about p { margin: 0 0 14px; color:#ead7c4; font-size:17px; line-height:1.65; }
 .about p:last-child { margin-bottom:0; }
 </style>
       <div class="page" style="min-height:255px">
