@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="395" viewBox="0 0 1200 395" fill="none">
+  <foreignObject width="1200" height="395">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+* { box-sizing: border-box; }
+html, body {
+  margin: 0;
+  width: 1200px;
+  color: #2f211b;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, Helvetica, sans-serif;
+}
+.page {
+  width: 1200px;
+  padding: 22px;
+  background:
+    linear-gradient(rgba(190,133,87,.09) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(190,133,87,.09) 1px, transparent 1px),
+    #f6e4cc;
+  background-size: 30px 30px;
+}
+.card {
+  position: relative;
+  overflow: hidden;
+  background: rgba(255,249,239,.98);
+  border: 1px solid #dfbf9b;
+  border-radius: 24px;
+  box-shadow: 0 10px 30px rgba(91,53,30,.08);
+}
+.section { padding: 28px; }
+.section-title {
+  display: flex; align-items: center; gap: 10px;
+  margin: 0 0 18px; color: #3b261c;
+  font-size: 28px; font-weight: 850; letter-spacing: -.7px;
+}
+.muted { color: #7a6558; }
+.pill {
+  display: inline-flex; align-items: center; gap: 8px;
+  padding: 9px 14px; border: 1px solid #e3c5a3; border-radius: 999px;
+  background: #fbefdf; color: #51392c; font-size: 14px; font-weight: 750;
+}
+
+.values { display:grid; grid-template-columns: repeat(3, 1fr); gap:14px; }
+.value { min-height:148px; padding:18px 17px; text-align:center; border:1px solid #e3c5a5; border-radius:16px; background:#fcf1e3; }
+.value-icon { font-size:34px; }
+.value h3 { margin:10px 0 7px; font-size:17px; }
+.value p { margin:0; color:#6b574b; font-size:14px; line-height:1.45; }
+</style>
+      <div class="page" style="min-height:395px">
+<section class="card section">
+  <h2 class="section-title">🌱 What I Care About</h2>
+  <div class="values">
+    <div class="value"><div class="value-icon">🎯</div><h3>Thoughtful UI</h3><p>Giao diện rõ ràng, có chủ đích và không có chi tiết thừa.</p></div>
+    <div class="value"><div class="value-icon">📱</div><h3>Responsive Design</h3><p>Hoạt động tốt trên desktop, tablet và thiết bị di động.</p></div>
+    <div class="value"><div class="value-icon">♿</div><h3>Accessibility</h3><p>Trải nghiệm dễ đọc, dễ thao tác và dễ tiếp cận.</p></div>
+    <div class="value"><div class="value-icon">✨</div><h3>Playful Motion</h3><p>Animation vừa đủ, tự nhiên và hỗ trợ trải nghiệm.</p></div>
+    <div class="value"><div class="value-icon">🧩</div><h3>Clean Architecture</h3><p>Code dễ đọc, dễ bảo trì và thuận tiện để mở rộng.</p></div>
+    <div class="value"><div class="value-icon">⚡</div><h3>Performance</h3><p>Website tải nhanh và hạn chế tài nguyên không cần thiết.</p></div>
+  </div>
+</section>
+</div>
+    </div>
+  </foreignObject>
+</svg>
