@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470" fill="none">
-  <foreignObject width="1200" height="470">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" fill="none">
+  <foreignObject width="1200" height="520">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
 @import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@400..800&amp;display=swap');
@@ -12,7 +12,7 @@ html, body {
 }
 .page {
   width: 1200px;
-  padding: 4px;
+  padding: 16px 16px 28px;
   background: transparent;
 }
 .page > .card {
@@ -26,7 +26,7 @@ html, body {
   border-radius: 8px;
   box-shadow: none;
 }
-.section { padding: 34px; }
+.section { padding: 34px 34px 42px; }
 .section-title {
   display: flex; align-items: center; gap: 10px;
   margin: 0 0 18px; color: #2f1d13;
@@ -45,7 +45,7 @@ html, body {
 .value h3 { margin:10px 0 7px; font-size:17px; }
 .value p { margin:0; color:#7a5d4a; font-size:14px; line-height:1.45; }
 </style>
-      <div class="page" style="min-height:470px">
+      <div class="page" style="min-height:520px">
 <section class="card section">
   <h2 class="section-title">🌱 What I Care About</h2>
   <div class="values">
