@@ -7,7 +7,7 @@
 html, body {
   margin: 0;
   width: 1200px;
-  color: #2f1d13;
+  color: #fff8e9;
   font-family: "Baloo 2", -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, Helvetica, sans-serif;
 }
 .page {
@@ -21,41 +21,45 @@ html, body {
 .card {
   position: relative;
   overflow: hidden;
-  background: #fff8e9;
-  border: 1px solid #533728;
+  background: #1b120d;
+  border: 1px solid #8f5b2e;
   border-radius: 8px;
-  box-shadow: none;
+  box-shadow: inset 0 0 0 1px rgba(255,248,233,.04);
 }
-.section { padding: 28px; }
+.section { padding: 24px; }
 .section-title {
   display: flex; align-items: center; gap: 10px;
-  margin: 0 0 18px; color: #2f1d13;
+  margin: 0 0 18px; color: #fff8e9;
   font-size: 22px; font-weight: 700; letter-spacing: 0; font-family: "Baloo 2", sans-serif;
 }
-.muted { color: #765143; }
+.muted { color: #caa98d; }
 .pill {
   display: inline-flex; align-items: center; gap: 8px;
-  padding: 9px 14px; border: 1px solid #533728; border-radius: 6px;
-  background: #fff2d7; color: #7a5d4a; font-size: 14px; font-weight: 750;
+  padding: 8px 12px; border: 1px solid #8f5b2e; border-radius: 6px;
+  background: #261a13; color: #d8c1aa; font-size: 14px; font-weight: 750;
 }
+.icon { width:24px; height:24px; flex:0 0 auto; color:#e7a15c; stroke:currentColor; stroke-width:2; fill:none; stroke-linecap:round; stroke-linejoin:round; }
+.pill .icon { width:16px; height:16px; }
+.value-icon, .fact-icon, .activity-icon, .contact-icon { display:grid; place-items:center; color:#e7a15c; }
+.value-icon .icon, .fact-icon .icon, .activity-icon .icon, .contact-icon .icon { width:34px; height:34px; }
 
 .contact { display:grid; grid-template-columns: repeat(3, 1fr); gap:14px; }
-.contact-item { min-height:84px; display:flex; align-items:center; gap:14px; padding:15px 18px; border:1px solid #533728; border-radius:8px; color:#2f1d13; background:#fff2d7; box-shadow:none; text-decoration:none; }
+.contact-item { min-height:84px; display:flex; align-items:center; gap:14px; padding:15px 18px; border:1px solid #8f5b2e; border-radius:8px; color:#fff8e9; background:#261a13; box-shadow:none; text-decoration:none; }
 .contact-icon { font-size:33px; }
 .contact-item strong { display:block; margin-bottom:3px; font-size:15px; }
-.contact-item span { color:#7a5d4a; font-size:13px; }
-.footer { margin-top: 14px; color:#7a5d4a; text-align:center; font-size:14px; }
+.contact-item span { color:#d8c1aa; font-size:13px; }
+.footer { margin-top: 14px; color:#d8c1aa; text-align:center; font-size:14px; }
 </style>
       <div class="page" style="min-height:220px">
 <section class="card section">
-  <h2 class="section-title">💌 Let’s Connect</h2>
+  <h2 class="section-title"><svg class="icon" viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/></svg>Let’s Connect</h2>
   <div class="contact">
-    <a class="contact-item" href="mailto:hung.vq98@gmail.com"><span class="contact-icon">✉️</span><span><strong>Email Me</strong><span>hung.vq98@gmail.com</span></span></a>
-    <a class="contact-item" href="https://facebook.com/QH.KTTT"><span class="contact-icon">🔵</span><span><strong>Facebook</strong><span>facebook.com/QH.KTTT</span></span></a>
-    <a class="contact-item" href="https://github.com/hungvq98"><span class="contact-icon">🐙</span><span><strong>GitHub</strong><span>github.com/hungvq98</span></span></a>
+    <a class="contact-item" href="mailto:hung.vq98@gmail.com"><span class="contact-icon"><svg class="icon" viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/></svg></span><span><strong>Email Me</strong><span>hung.vq98@gmail.com</span></span></a>
+    <a class="contact-item" href="https://facebook.com/QH.KTTT"><span class="contact-icon"><svg class="icon" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M14 8h-2a2 2 0 0 0-2 2v2H8v3h2v5h3v-5h2.5l.5-3h-3v-1.5c0-.8.4-1.5 1.5-1.5H16V8h-2z"/></svg></span><span><strong>Facebook</strong><span>facebook.com/QH.KTTT</span></span></a>
+    <a class="contact-item" href="https://github.com/hungvq98"><span class="contact-icon"><svg class="icon" viewBox="0 0 24 24"><path d="M9 19c-5 1-5-2-7-3"/><path d="M15 22v-3.5c0-1 .3-1.8 1-2.4 3-.3 6-1.5 6-6A4.6 4.6 0 0 0 20.7 7c.1-.4.5-2-.2-4 0 0-1.3-.4-4 1.5A14 14 0 0 0 9 4.5C6.3 2.6 5 3 5 3c-.7 2-.3 3.6-.2 4A4.6 4.6 0 0 0 3.5 10c0 4.5 3 5.7 6 6 .5.4.8 1 .9 1.8V22"/></svg></span><span><strong>GitHub</strong><span>github.com/hungvq98</span></span></a>
   </div>
 </section>
-<div class="footer">Thanks for stopping by! Have a great day 🌼</div>
+<div class="footer">Thanks for stopping by! Have a great day <svg class="icon" viewBox="0 0 24 24"><path d="M12 21s-6-4-6-10a6 6 0 0 1 12 0c0 6-6 10-6 10z"/><path d="M9 10h6"/></svg></div>
 </div>
     </div>
   </foreignObject>

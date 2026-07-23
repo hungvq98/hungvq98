@@ -7,7 +7,7 @@
 html, body {
   margin: 0;
   width: 1200px;
-  color: #2f1d13;
+  color: #fff8e9;
   font-family: "Baloo 2", -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, Helvetica, sans-serif;
 }
 .page {
@@ -21,34 +21,38 @@ html, body {
 .card {
   position: relative;
   overflow: hidden;
-  background: #fff8e9;
-  border: 1px solid #533728;
+  background: #1b120d;
+  border: 1px solid #8f5b2e;
   border-radius: 8px;
-  box-shadow: none;
+  box-shadow: inset 0 0 0 1px rgba(255,248,233,.04);
 }
-.section { padding: 28px; }
+.section { padding: 24px; }
 .section-title {
   display: flex; align-items: center; gap: 10px;
-  margin: 0 0 18px; color: #2f1d13;
+  margin: 0 0 18px; color: #fff8e9;
   font-size: 22px; font-weight: 700; letter-spacing: 0; font-family: "Baloo 2", sans-serif;
 }
-.muted { color: #765143; }
+.muted { color: #caa98d; }
 .pill {
   display: inline-flex; align-items: center; gap: 8px;
-  padding: 9px 14px; border: 1px solid #533728; border-radius: 6px;
-  background: #fff2d7; color: #7a5d4a; font-size: 14px; font-weight: 750;
+  padding: 8px 12px; border: 1px solid #8f5b2e; border-radius: 6px;
+  background: #261a13; color: #d8c1aa; font-size: 14px; font-weight: 750;
 }
+.icon { width:24px; height:24px; flex:0 0 auto; color:#e7a15c; stroke:currentColor; stroke-width:2; fill:none; stroke-linecap:round; stroke-linejoin:round; }
+.pill .icon { width:16px; height:16px; }
+.value-icon, .fact-icon, .activity-icon, .contact-icon { display:grid; place-items:center; color:#e7a15c; }
+.value-icon .icon, .fact-icon .icon, .activity-icon .icon, .contact-icon .icon { width:34px; height:34px; }
 
 .skills-grid { display:grid; grid-template-columns: repeat(5, 1fr); gap:12px; }
-.skill { min-height:58px; display:flex; align-items:center; gap:11px; padding:11px 13px; border:1px solid #533728; border-radius:8px; background:#fff2d7; box-shadow:none; font-size:15px; font-weight:780; }
-.skill-icon { display:grid; place-items:center; width:32px; height:32px; border-radius:9px; color:#fff8e9; font-size:14px; font-weight:950; box-shadow:0 3px 0 rgba(72,42,24,.12); }
+.skill { min-height:58px; display:flex; align-items:center; gap:11px; padding:11px 13px; border:1px solid #8f5b2e; border-radius:8px; background:#261a13; box-shadow:none; font-size:15px; font-weight:780; }
+.skill-icon { display:grid; place-items:center; width:32px; height:32px; border-radius:9px; color:#1b120d; font-size:14px; font-weight:950; box-shadow:0 3px 0 rgba(72,42,24,.12); }
 .html { background:#e65d2f; } .css { background:#3478bf; } .sass { background:#cb6b98; }
 .js { color:#2b2414; background:#f0ca36; } .react { background:#58a9ce; } .gsap { background:#458354; }
 .figma { background:#e46d4d; } .ps { background:#176ca4; } .git { background:#d85d35; } .vscode { background:#3487c8; }
 </style>
       <div class="page" style="min-height:240px">
 <section class="card section">
-  <h2 class="section-title">🧰 Skills &amp; Tools</h2>
+  <h2 class="section-title"><svg class="icon" viewBox="0 0 24 24"><rect x="3" y="7" width="18" height="13" rx="2"/><path d="M8 7V5c0-1 1-2 2-2h4c1 0 2 1 2 2v2"/><path d="M3 12h18"/></svg>Skills &amp; Tools</h2>
   <div class="skills-grid">
     <div class="skill"><span class="skill-icon html">H5</span>HTML</div>
     <div class="skill"><span class="skill-icon css">C3</span>CSS</div>
