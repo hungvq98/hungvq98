@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/hungvq98">
-    <img src="./svg/hero.svg?v=20260723-font" width="100%" alt="Quhu Hero" />
+    <img src="./svg/hero.svg?v=20260723-noavatar" width="100%" alt="Quhu Hero" />
   </a>
 </div>
 
