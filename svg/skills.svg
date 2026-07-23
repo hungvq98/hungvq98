@@ -2,13 +2,13 @@
   <foreignObject width="1200" height="240">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-@import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@400..800&amp;family=Google+Sans+Flex:opsz,wght@6..144,1..1000&amp;display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@400..800&amp;display=swap');
 * { box-sizing: border-box; }
 html, body {
   margin: 0;
   width: 1200px;
   color: #2f1d13;
-  font-family: "Google Sans Flex", -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, Helvetica, sans-serif;
+  font-family: "Baloo 2", -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, Helvetica, sans-serif;
 }
 .page {
   width: 1200px;
@@ -30,7 +30,7 @@ html, body {
 .section-title {
   display: flex; align-items: center; gap: 10px;
   margin: 0 0 18px; color: #2f1d13;
-  font-size: 22px; font-weight: 700; letter-spacing: 0; font-family: "Baloo 2", "Google Sans Flex", sans-serif;
+  font-size: 22px; font-weight: 700; letter-spacing: 0; font-family: "Baloo 2", sans-serif;
 }
 .muted { color: #765143; }
 .pill {
