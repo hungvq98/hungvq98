@@ -11,8 +11,8 @@ html, body {
 }
 .page {
   width: 1200px;
-  padding: 22px;
-  background: #f4dfc3;
+  padding: 0;
+  background: transparent;
 }
 .card {
   position: relative;
