@@ -1,5 +1,5 @@
 <div align="center">
   <a href="https://github.com/hungvq98">
-    <img src="./svg/quochung.svg?v=20260723-fullwidth" width="100%" alt="Quhu GitHub profile" />
+    <img src="./svg/quochung.svg?v=20260723-no-cut" width="100%" alt="Quhu GitHub profile" />
   </a>
 </div>
