@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="395" viewBox="0 0 1200 395" fill="none">
-  <foreignObject width="1200" height="395">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470" fill="none">
+  <foreignObject width="1200" height="470">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
 @import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@400..800&amp;display=swap');
@@ -12,11 +12,11 @@ html, body {
 }
 .page {
   width: 1200px;
-  padding: 0;
+  padding: 4px;
   background: transparent;
 }
 .page > .card {
-  min-height: inherit;
+  min-height: auto;
 }
 .card {
   position: relative;
@@ -26,7 +26,7 @@ html, body {
   border-radius: 8px;
   box-shadow: none;
 }
-.section { padding: 28px; }
+.section { padding: 34px; }
 .section-title {
   display: flex; align-items: center; gap: 10px;
   margin: 0 0 18px; color: #2f1d13;
@@ -39,13 +39,13 @@ html, body {
   background: #fff2d7; color: #7a5d4a; font-size: 14px; font-weight: 750;
 }
 
-.values { display:grid; grid-template-columns: repeat(3, 1fr); gap:14px; }
-.value { min-height:148px; padding:18px 17px; text-align:center; border:1px solid #533728; border-radius:8px; background:#fff2d7; box-shadow:none; }
+.values { display:grid; grid-template-columns: repeat(3, 1fr); gap:16px; }
+.value { min-height:152px; padding:20px 18px; text-align:center; border:1px solid #533728; border-radius:8px; background:#fff2d7; box-shadow:none; }
 .value-icon { font-size:34px; }
 .value h3 { margin:10px 0 7px; font-size:17px; }
 .value p { margin:0; color:#7a5d4a; font-size:14px; line-height:1.45; }
 </style>
-      <div class="page" style="min-height:395px">
+      <div class="page" style="min-height:470px">
 <section class="card section">
   <h2 class="section-title">🌱 What I Care About</h2>
   <div class="values">
